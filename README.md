@@ -58,5 +58,5 @@ Enter session ID and Passcode(if set) to join the session
 
 ----------------------------------
 
-© 2025 Invincible Nullpad-Desktop. All rights reserved.  
+© 2025 Nullpad. All rights reserved.  
 Built with [Electron](https://www.electronjs.org/) and [Node.js](https://nodejs.org/).
