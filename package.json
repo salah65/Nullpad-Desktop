@@ -1,6 +1,8 @@
 {
-  "name": "collab-notes-app",
+  "name": "Nullpad",
+  "productName": "Nullpad",
   "version": "1.0.0",
+  "description": "An Invincible collaborative notepad",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
